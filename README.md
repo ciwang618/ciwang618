@@ -1,4 +1,4 @@
-## Hi! I'm Chris
+## Hi! I'm Chris.
 
  - Studying Computer Science at UPenn
 
